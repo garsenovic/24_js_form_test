@@ -1,0 +1,32 @@
+body {
+    background:yellow;
+}
+h1 {
+    width:1000px;
+    border-width:1px;
+    border-style:solid;
+    background:lightgray;
+    color:black;
+    text-align:center;
+}
+form {
+    width:750px;
+    border-width:1px;
+    border-style:solid;
+    background:lightgray;
+    color:black;
+    padding:10px;
+}
+input{
+    margin:10px;
+}
+.info{
+    width:375px;
+    color:red;
+    padding:10px;
+    display:inline-block;
+}
+.titel{
+    width:150px;
+    display: inline-block;
+}
